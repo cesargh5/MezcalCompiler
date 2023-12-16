@@ -1,0 +1,13 @@
+namespace compiler
+{
+
+	class : public SyntaxTree
+	{
+		public:
+			Name(const std::string $name) :
+			name(name)
+{
+}
+		private:
+	}
+}
